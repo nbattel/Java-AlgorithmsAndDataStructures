@@ -1,12 +1,12 @@
 # Java-AlgorithmsAndDataStructures
 Different structures and algorithms made from my Udemy course, Data Structures and Algorithms: Deep Dive Using Java by Tim Buchalka
 
-# Completed Data Structures:
+## Completed Data Structures:
 - Arrays
 
-# Completed Algorithms:
+## Completed Algorithms:
 
-# In Progress:
+## In Progress:
 - Lists
 - Stacks
 - Queues
