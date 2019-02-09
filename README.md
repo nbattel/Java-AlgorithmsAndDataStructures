@@ -1,10 +1,11 @@
 # Java-AlgorithmsAndDataStructures
 Different structures and algorithms made from my Udemy course, Data Structures and Algorithms: Deep Dive Using Java by Tim Buchalka
 
-## Completed Data Structures:
+## Completed Algorithms and Data Structures:
 - Arrays
-
-## Completed Algorithms:
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
 
 ## In Progress:
 - Lists
@@ -15,5 +16,5 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Heaps
 - Sets
 - Search Algorithms
-- Sort Algorithms
+- Shell Sort
 - Recursion
