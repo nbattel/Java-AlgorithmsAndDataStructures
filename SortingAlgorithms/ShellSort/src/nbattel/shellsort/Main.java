@@ -7,9 +7,9 @@ public class Main
     {
         int[] array = {20, 56, 87, 3, 10, -7, 77};
 
-        for (int gap = array.length/2; gap > 0; gap--)
+        for (int gap = array.length/2; gap > 0; gap /= 2)
         {
-            for(int i = gap; i <array.length; i++)
+            for(int i = gap; i < array.length; i++)
             {
                 int newElement = array[i];
                 int j = i;
