@@ -9,6 +9,8 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Shell Sort
 - Recursion
 - Merge Sort
+- Counting Sort
+- Radix Sort
 
 ## In Progress:
 - Lists
