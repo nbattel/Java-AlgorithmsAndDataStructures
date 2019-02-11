@@ -6,6 +6,7 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Shell Sort
 
 ## In Progress:
 - Lists
@@ -15,6 +16,5 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Trees
 - Heaps
 - Sets
-- Search Algorithms
 - Shell Sort
 - Recursion
