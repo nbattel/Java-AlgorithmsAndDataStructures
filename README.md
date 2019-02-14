@@ -11,6 +11,8 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Merge Sort
 - Counting Sort
 - Radix Sort
+- JDK Sort
+- Sorting Algorithm Challenges 1-3
 
 ## In Progress:
 - Lists
