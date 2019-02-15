@@ -13,9 +13,11 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Radix Sort
 - JDK Sort
 - Sorting Algorithm Challenges 1-3
+- Array Lists 
+- Singly Linked Lists
 
 ## In Progress:
-- Lists
+- Doubly Linked Lists
 
 ## Not Completed:
 - Stacks
