@@ -28,7 +28,7 @@ public class Main {
         queue.remove();
 
         queue.add(mikeWilson);
-        
+
         System.out.println(queue.peek());
         queue.printQueue();
     }
