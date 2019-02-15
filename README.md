@@ -3,18 +3,20 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 
 ## Completed Algorithms and Data Structures:
 - Arrays
-  - Recursion
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Shell Sort
-- Merge Sort
-- Counting Sort
-- Radix Sort
-- JDK Sort
-- Sorting Algorithm Challenges 1-3
-- Array Lists 
-- Singly Linked Lists
+- Recursion
+- Sort Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Shell Sort
+  - Merge Sort
+  - Counting Sort
+  - Radix Sort
+  - JDK Sort
+  - Sorting Algorithm Challenges 1-3
+- Lists
+  - Array Lists 
+  - Singly Linked Lists
 
 ## In Progress:
 - Doubly Linked Lists
