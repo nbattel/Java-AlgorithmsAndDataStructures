@@ -3,7 +3,7 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 
 ## Completed Algorithms and Data Structures:
 - Arrays
-- Recursion
+  - Recursion
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
