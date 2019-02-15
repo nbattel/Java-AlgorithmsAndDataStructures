@@ -19,13 +19,16 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Singly Linked Lists
   - Doubly Linked Lists
   - JDK Lists
+  - Linked List Challenges 1-2
+- Stacks
+  - Stack Array Implementation
+  - Stack Linked List Implementation
+  - Stack Challenge
 
 ## In Progress:
-- Linked List Challenges
+- Queues
 
 ## Not Completed:
-- Stacks
-- Queues
 - Hashtables
 - Trees
 - Heaps
