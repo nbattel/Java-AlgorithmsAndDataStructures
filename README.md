@@ -17,9 +17,11 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Lists
   - Array Lists 
   - Singly Linked Lists
+  - Doubly Linked Lists
+  - JDK Lists
 
 ## In Progress:
-- Doubly Linked Lists
+- Linked List Challenges
 
 ## Not Completed:
 - Stacks
