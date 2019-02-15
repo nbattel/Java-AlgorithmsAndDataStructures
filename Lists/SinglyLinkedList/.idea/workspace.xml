@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="657830ab-f4bc-4366-a874-eaf181f369d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/EmployeeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/EmployeeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="657830ab-f4bc-4366-a874-eaf181f369d8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +19,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1171" />
+          <entry key="java" value="1204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1171" />
+          <entry key="JAVA" value="1204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -135,9 +129,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Employee.java" />
-        <option value="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java" />
         <option value="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/EmployeeNode.java" />
         <option value="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/EmployeeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java" />
       </list>
     </option>
   </component>
@@ -189,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550196052248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550196058276" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -230,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550193532156</updated>
-      <workItem from="1550193533466" duration="2435000" />
+      <workItem from="1550193533466" duration="3122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2435000" />
+    <option name="totallyTimeSpent" value="3122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
@@ -337,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nbattel/SinglyLinkedList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
