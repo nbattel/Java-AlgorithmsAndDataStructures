@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d65b4402-8e14-46c9-b95a-7c7b5c1fe1b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeDoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d65b4402-8e14-46c9-b95a-7c7b5c1fe1b6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +19,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2181" />
+          <entry key="java" value="2189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2181" />
+          <entry key="JAVA" value="2189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="264">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -111,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeDoublyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            <state relative-caret-position="1258">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="e#1244#1245#0" expanded="true" />
                 <element signature="e#1271#1272#0" expanded="true" />
@@ -140,8 +134,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Employee.java" />
         <option value="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeNode.java" />
-        <option value="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeDoublyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeDoublyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -193,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550200528804" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550200581809" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -234,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550197188913</updated>
-      <workItem from="1550197190316" duration="2817000" />
+      <workItem from="1550197190316" duration="3648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2817000" />
+    <option name="totallyTimeSpent" value="3648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
@@ -332,15 +326,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nbattel/DoublyLinkedList/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="264">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nbattel/DoublyLinkedList/EmployeeDoublyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        <state relative-caret-position="1258">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="e#1244#1245#0" expanded="true" />
             <element signature="e#1271#1272#0" expanded="true" />
