@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61569c07-bc7a-4e04-a77f-34d50bd25b7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nbattel/CircularQueueImplementation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nbattel/CircularQueueImplementation/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="61569c07-bc7a-4e04-a77f-34d50bd25b7a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +13,7 @@
     <session id="1137181376">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -50,7 +47,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nbattel/CircularQueueImplementation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
+            <state relative-caret-position="245">
               <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
             </state>
           </provider>
@@ -186,12 +183,12 @@
       <updated>1550342891009</updated>
       <workItem from="1550342896698" duration="624000" />
       <workItem from="1550448239815" duration="1506000" />
-      <workItem from="1550522814442" duration="815000" />
+      <workItem from="1550522814442" duration="1415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2945000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
@@ -207,7 +204,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,7 +233,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/nbattel/CircularQueueImplementation/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
+        <state relative-caret-position="245">
           <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
