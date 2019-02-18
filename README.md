@@ -24,6 +24,9 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Stack Array Implementation
   - Stack Linked List Implementation
   - Stack Challenge
+- Queues
+  - Array Queue Implementation
+  - Circular Queue Implementation
 
 ## In Progress:
 - Queues
