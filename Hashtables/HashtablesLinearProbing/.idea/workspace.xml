@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="050326ce-615b-4dd4-a750-829ca851d6a6" name="Default Changelist" comment="" />
+    <list default="true" id="050326ce-615b-4dd4-a750-829ca851d6a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/SimpleHashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/SimpleHashtable.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +42,53 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-127838026">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="141" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="141" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/StoredEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -60,11 +102,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/SimpleHashtable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="629">
+              <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+              <folding>
+                <element signature="e#1827#1828#0" expanded="true" />
+                <element signature="e#1881#1882#0" expanded="true" />
+                <element signature="e#2705#2706#0" expanded="true" />
+                <element signature="e#2752#2753#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,17 +162,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="HashTableArrayImplementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTableArrayImplementation" type="462c0819:PsiDirectoryNode" />
+              <item name="HashtablesLinearProbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashtablesLinearProbing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashTableArrayImplementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTableArrayImplementation" type="462c0819:PsiDirectoryNode" />
+              <item name="HashtablesLinearProbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashtablesLinearProbing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="HashTableArrayImplementation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HashTableArrayImplementation" type="462c0819:PsiDirectoryNode" />
+              <item name="HashtablesLinearProbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HashtablesLinearProbing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HashTableLinearProbing" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -133,14 +181,15 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550531265845" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,17 +232,19 @@
       <updated>1550527163341</updated>
       <workItem from="1550527164875" duration="3825000" />
       <workItem from="1550531039083" duration="497000" />
+      <workItem from="1550532136949" duration="24000" />
+      <workItem from="1550613549136" duration="255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4322000" />
+    <option name="totallyTimeSpent" value="4601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -260,6 +311,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/StoredEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -276,15 +334,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/SimpleHashtable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nbattel/HashTableLinearProbing/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="629">
+          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+          <folding>
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+            <element signature="e#2705#2706#0" expanded="true" />
+            <element signature="e#2752#2753#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
