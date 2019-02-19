@@ -27,12 +27,15 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Queues
   - Array Queue Implementation
   - Circular Queue Implementation
+  - Queue Challenge
+- Hashtables
+  - Hashtables - Linear Probing
+  - Hashtables - Chaining
 
 ## In Progress:
-- Queues
+- Hashtables
 
 ## Not Completed:
-- Hashtables
 - Trees
 - Heaps
 - Sets
