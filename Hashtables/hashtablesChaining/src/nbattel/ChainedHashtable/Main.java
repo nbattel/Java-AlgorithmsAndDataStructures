@@ -10,7 +10,7 @@ public class Main {
         Employee mikeWilson = new Employee("Mike", "Wilson", 3245);
         Employee billEnd = new Employee("Bill", "End", 78);
 
-        SimpleHashtable ht = new SimpleHashtable();
+        ChainedHashtable ht = new ChainedHashtable();
         ht.put("Jones", janeJones);
         ht.put("Doe", johnDoe);
         ht.put("Wilson", mikeWilson);
@@ -21,10 +21,10 @@ public class Main {
         System.out.println("Retrieve key Wilson: " + ht.get("Wilson"));
         System.out.println("Retrieve key Smith: " + ht.get("Smith"));
 
-        ht.remove("Wilson");
-        ht.remove("Jones");
-        ht.printHashtable();
-
-        System.out.println("Retrieve key Smith: " + ht.get("Smith"));
+//        ht.remove("Wilson");
+//        ht.remove("Jones");
+//        ht.printHashtable();
+//
+//        System.out.println("Retrieve key Smith: " + ht.get("Smith"));
     }
 }
