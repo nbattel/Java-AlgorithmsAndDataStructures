@@ -13,7 +13,7 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Counting Sort
   - Radix Sort
   - JDK Sort
-  - Sorting Algorithm Challenges 1-3
+  - Sorting Algorithms Challenges 1-3
 - Lists
   - Array Lists 
   - Singly Linked Lists
@@ -32,11 +32,12 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Hashtables - Linear Probing
   - Hashtables - Chaining
   - Hashtables - JDK
+  - Bucket Sort
+  - Hashtables Challenges 1-2
 
 ## In Progress:
-- Hashtables
+- Trees
 
 ## Not Completed:
-- Trees
 - Heaps
 - Search Algorithms
