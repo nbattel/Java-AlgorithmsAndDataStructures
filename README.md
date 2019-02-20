@@ -39,4 +39,4 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 ## Not Completed:
 - Trees
 - Heaps
-- Sets
+- Search Algorithms
