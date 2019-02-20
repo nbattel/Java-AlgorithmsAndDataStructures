@@ -36,8 +36,8 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Hashtables Challenges 1-2
 
 ## In Progress:
-- Trees
+- Search Algorithms
 
 ## Not Completed:
+- Trees
 - Heaps
-- Search Algorithms
