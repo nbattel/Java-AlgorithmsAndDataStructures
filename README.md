@@ -34,10 +34,12 @@ Different structures and algorithms made from my Udemy course, Data Structures a
   - Hashtables - JDK
   - Bucket Sort
   - Hashtables Challenges 1-2
+- Search Algorithms
+  - Linear Search
+  - Binary Search
 
 ## In Progress:
-- Search Algorithms
+- Trees
 
 ## Not Completed:
-- Trees
 - Heaps
