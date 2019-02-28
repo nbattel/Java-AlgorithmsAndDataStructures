@@ -37,9 +37,9 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Search Algorithms
   - Linear Search
   - Binary Search
+- Trees
+  - Binary Search Trees
+  - Binary Search Trees Challenge
 
 ## In Progress:
-- Trees
-
-## Not Completed:
 - Heaps
