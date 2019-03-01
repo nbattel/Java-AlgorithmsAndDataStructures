@@ -40,6 +40,7 @@ Different structures and algorithms made from my Udemy course, Data Structures a
 - Trees
   - Binary Search Trees
   - Binary Search Trees Challenge
-
-## In Progress:
 - Heaps
+  - Heaps
+  - Priority Queue
+  - Heap Sort
